@@ -10,10 +10,14 @@ In-class Kaggle Competition of MSBD5001 Fall 2019
 3. Categories,Review-ratio,Purchase-date
 
 Models used at the moment:
+
 1. RandomForest
+
 2. AdaBoost
-3.XgBoost
-4.BaggingRegressor
+
+3. XgBoost
+
+4 .BaggingRegressor
 
 #Tuning:
 
